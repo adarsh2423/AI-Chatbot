@@ -1,0 +1,74 @@
+[
+  {
+    "product": "Wireless Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with 20 hours battery life.",
+    "price": "₹2999",
+    "category": "Electronics"
+  },
+  {
+    "product": "Smart Fitness Watch",
+    "description": "Feature-rich fitness tracker with heart rate and sleep monitoring.",
+    "price": "₹3499",
+    "category": "Wearables"
+  },
+  {
+    "product": "Electric Kettle",
+    "description": "1.7-liter electric kettle with auto shut-off and boil-dry protection.",
+    "price": "₹1299",
+    "category": "Home Appliances"
+  },
+  {
+    "product": "Organic Green Tea",
+    "description": "100% organic green tea leaves sourced from Darjeeling.",
+    "price": "₹499",
+    "category": "Beverages"
+  },
+  {
+    "product": "Gaming Mouse",
+    "description": "Ergonomic wired gaming mouse with adjustable DPI and RGB lighting.",
+    "price": "₹1599",
+    "category": "Computer Accessories"
+  },
+  {
+    "product": "Yoga Mat",
+    "description": "Eco-friendly, non-slip yoga mat available in multiple colors.",
+    "price": "₹899",
+    "category": "Fitness"
+  },
+  {
+    "product": "Stainless Steel Water Bottle",
+    "description": "Insulated water bottle keeps drinks cold for 24 hours and hot for 12 hours.",
+    "price": "₹1199",
+    "category": "Outdoor"
+  },
+  {
+    "product": "Portable Charger 10000mAh",
+    "description": "Compact power bank with fast charging and dual USB ports.",
+    "price": "₹1399",
+    "category": "Mobile Accessories"
+  },
+  {
+    "product": "Bluetooth Speaker",
+    "description": "Waterproof portable speaker with deep bass and 10 hours playtime.",
+    "price": "₹2499",
+    "category": "Audio"
+  },
+  {
+    "product": "LED Desk Lamp",
+    "description": "Adjustable brightness and color temperature with touch control.",
+    "price": "₹1799",
+    "category": "Lighting"
+  },
+  {
+    "product": "Men's Running Shoes",
+    "description": "Lightweight, breathable running shoes with cushioned sole.",
+    "price": "₹3299",
+    "category": "Footwear"
+  },
+  {
+    "product": "Wireless Charger Stand",
+    "description": "Fast wireless charging stand compatible with all Qi-enabled devices.",
+    "price": "₹2199",
+    "category": "Mobile Accessories"
+  }
+]
